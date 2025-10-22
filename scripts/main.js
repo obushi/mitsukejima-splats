@@ -17,7 +17,7 @@ const assets1 = [
     //     url: '../splats/202305.sog'
     // }),
     new pc.Asset('mitsukejima02', 'gsplat', {
-        url: '.https://noriyasu.obushi.com/mitsukejima-splats/splats/202507.sog'
+        url: 'https://noriyasu.obushi.com/mitsukejima-splats/splats/202507.sog'
     })
     // new pc.Asset('mitsukejima03', 'gsplat', {
     //     url: '../splats/202508.sog'
