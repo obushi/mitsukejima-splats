@@ -11,13 +11,13 @@ app1.start();
 
 const assets1 = [
     new pc.Asset('follower-sync', 'script', {
-        url: '../scripts/follower-sync.mjs'
+        url: 'https://noriyasu.obushi.com/mitsukejima-splats/scripts/follower-sync.mjs'
     }),
     // new pc.Asset('mitsukejima01', 'gsplat', {
     //     url: '../splats/202305.sog'
     // }),
     new pc.Asset('mitsukejima02', 'gsplat', {
-        url: '../splats/202507.sog'
+        url: '.https://noriyasu.obushi.com/mitsukejima-splats/splats/202507.sog'
     })
     // new pc.Asset('mitsukejima03', 'gsplat', {
     //     url: '../splats/202508.sog'
@@ -58,10 +58,10 @@ app2.start();
 
 const assets2 = [
     new pc.Asset('camera-controls', 'script', {
-        url: '../scripts/camera-controls.mjs'
+        url: 'https://noriyasu.obushi.com/mitsukejima-splats/scripts/camera-controls.mjs'
     }),
     new pc.Asset('leader-sync', 'script', {
-        url: '../scripts/leader-sync.mjs'
+        url: 'https://noriyasu.obushi.com/mitsukejima-splats/scripts/leader-sync.mjs'
     }),
     // new pc.Asset('mitsukejima01', 'gsplat', {
     //     url: '../splats/202305.sog'
@@ -73,7 +73,7 @@ const assets2 = [
     //     url: '../splats/202508.sog'
     // }),
     new pc.Asset('mitsukejima04', 'gsplat', {
-        url: '../splats/20220620.sog'
+        url: 'https://noriyasu.obushi.com/mitsukejima-splats/splats/20220620.sog'
     })
 ];
 
